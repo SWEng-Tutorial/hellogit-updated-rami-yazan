@@ -9,8 +9,5 @@
         <module name="HelloGit" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="HelloGit" target="15" />
-    </bytecodeTargetLevel>
   </component>
 </project>
