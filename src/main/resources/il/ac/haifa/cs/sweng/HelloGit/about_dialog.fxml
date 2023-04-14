@@ -14,10 +14,6 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
-   <Label text="We Are Rami Simaan ">
-      <font>
-         <Font size="21.0" />
-      </font></Label>
    <Text strokeType="OUTSIDE" strokeWidth="0.0" text="And Yazan YehYa">
       <font>
          <Font size="22.0" />
